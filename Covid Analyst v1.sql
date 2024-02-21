@@ -1,10 +1,12 @@
---Select *
---From [Covid Analyst]..[Covid Death]
---Order by 3,4
+--THIS PROJECT IS SHOWCASE MY ABILITY TO USE AND MAKE QUERY USING MYSQL. cc to Alex the Analyst
 
---Select *
---From [Covid Analyst]..[Covid Death]
---Order by 3,4
+Select *
+From [Covid Analyst]..[Covid Death]
+Order by 3,4
+
+Select *
+From [Covid Analyst]..[Covid Death]
+Order by 3,4
 
 Select location, date, total_cases, total_deaths, population, new_cases
 From [Covid Analyst]..[Covid Death]
